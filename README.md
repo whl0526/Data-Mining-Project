@@ -35,7 +35,8 @@
 
 **2-2 월별 기온, 미세먼지 시각화**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/875e748d-e19e-46d7-9d14-8df3a54bb0a0/Untitled.png)
+![Untitled (3)](https://user-images.githubusercontent.com/67450169/191543334-92a6d5b6-e384-466d-93ae-f236698984ec.png)
+
 
 **<그림5,6>**를 보면 **기온이 높은** **6월~10월**까지 (초)미세먼지 수치는 **보통**과 **좋음**으로 나타난 것을 알 수 있고 기온이 미세먼지에 영향을 끼친다는 사실도 알 수 있다.
 
@@ -43,7 +44,7 @@
 
 **2-3 월별 습도, 미세먼지 시각화**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2f457291-6be0-4a0f-8999-09a61d4a5983/Untitled.png)
+![Untitled (4)](https://user-images.githubusercontent.com/67450169/191543422-12d07dd7-084a-4ece-a264-13c789b97b86.png)
 
 **<그림7,8>**를 보면 **습도가 높은** **6월~10월**까지의 (초)미세먼지 수치는 **보통**과 **좋음**으로 나타난 것을 알 수 있고 습도가 미세먼지에 영향을 끼친다는 사실을 알 수 있다.
 
@@ -51,7 +52,8 @@
 
 **3 풍속, 풍향과 미세먼지 분석**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/698350bf-e5bd-43d5-ab3e-0148444e70bb/Untitled.png)
+![Untitled (5)](https://user-images.githubusercontent.com/67450169/191543464-d69d7e55-3159-4da9-8920-88be81a02ffa.png)
+
 
 **<자료1>**를 보면 **“풍속이 5%정도 감소하면 미세먼지는 약 10%정도 증가한다”**라는 정보를 알 수 있고 이를 바탕으로 풍속과 풍향이 미세먼지에 얼마나 영향을 끼치는지에 대해서 분석했다.
 
@@ -59,7 +61,7 @@
 
 **3-1 풍향과 미세먼지 분석**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6f2c1f5a-2778-41f2-82c4-6c0c2e4bd31f/Untitled.png)
+![Untitled (6)](https://user-images.githubusercontent.com/67450169/191543489-3c6e1f03-ec62-4a89-ace9-ed50f5ab9581.png)
 
 **<그림9>**는 중국과 우리나라의 거리가 가까운 **‘백령도’**와 **‘강화도’** 지역의 풍속과 풍향을 분석했다.
 
@@ -69,7 +71,8 @@
 
 **3-2 풍속과 미세먼지 분석**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/824169d7-0f0c-4a0c-bfe2-215534cdf183/Untitled.png)
+![Untitled (7)](https://user-images.githubusercontent.com/67450169/191543525-c37d1e1c-1339-44e3-80fe-ed550bbe3400.png)
+
 
 1월~3월까지는 다른 달에 비해 풍속이 빠른것을 확인 할 수 있다.
 
@@ -81,7 +84,8 @@
 
 3-3 풍속과 미세먼지 분석 결과
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4b2e8820-602d-4e4b-a638-b7ffc9b7989b/Untitled.png)
+![Untitled (8)](https://user-images.githubusercontent.com/67450169/191543552-73e44036-19db-4244-884a-8b2242f248ad.png)
+
 
 ---
 
