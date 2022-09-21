@@ -6,7 +6,7 @@
 
 1. **교통량과 미세먼지 상관관계**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c0b0565f-37d8-4cb1-a6ba-06fa03d010dd/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/67450169/191542844-d6dd1fe6-d977-4f2c-824c-75608b59455b.png)
 
 다른 교통량보다 **5종 교통량**이 (초)미세먼지에 각각 **0.24**, **0.31**로 **양적 상관관계**를 보이고 있음을 알 수 있다.
 
