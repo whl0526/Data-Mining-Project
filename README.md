@@ -16,7 +16,8 @@
 
 1. **날씨(기온, 강수량, 습도)와 미세먼지 상관관계**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5c476744-3cdc-44c8-b58f-9a6a00392cb4/Untitled.png)
+![Untitled (1)](https://user-images.githubusercontent.com/67450169/191542946-ad1672a4-a343-4438-af9e-1c6f8a642e47.png)
+
 
 **날씨**와 **미세먼지**와의 상관관계를 나타낸 그림이다. 
 
@@ -26,7 +27,7 @@
 
 **2-1 월별 강수량, 미세먼지 시각화**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6bb853b5-ea62-4b63-9f76-40968e0c8dd7/Untitled.png)
+![Untitled (2)](https://user-images.githubusercontent.com/67450169/191542967-96f9a209-ff7d-48a5-afd0-f8bc7693e51f.png)
 
 **<그림3,4>**를 보면 **강수량이 많은** **6월~10월**까지의 (초)미세먼지 수치는 **보통**과 **좋음**으로 나타난 것으로 알 수 있고 강수량이 미세먼지에 영향을 끼친다는 사실을 확인할 수 있다.
 
